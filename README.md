@@ -7,3 +7,5 @@ https://beyond-api-k3zvawu2ha-uc.a.run.app/create/$%7Bthis.tipo%7D
 https://beyond-api-k3zvawu2ha-uc.a.run.app/delete
 
 https://beyond-api-k3zvawu2ha-uc.a.run.app/update
+
+Aluno:victor andre barros de andrade medeiros matricula 01629687
